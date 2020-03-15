@@ -6,7 +6,7 @@
 
 body {
 
-  background-image: url("https://images.unsplash.com/photo-1451807278147-2e0e1e90b24d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1510&q=80");
+  background-image: url("https://images.unsplash.com/photo-1466853817435-05b43fe45b39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEwNDg4N30&auto=format&fit=crop&w=500&q=60");
   
 }
 
@@ -107,7 +107,6 @@ body {
 <br></br>
 <br></br>
 
-<h1>Animated Button</h1>
 
 <button class="button" id="myBtn"  style="vertical-align:middle"><span>Delete Memories..? </span></button>
 
