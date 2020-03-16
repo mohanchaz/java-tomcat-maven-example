@@ -6,7 +6,7 @@
 
 body {
 
-  background-image: url("https://images.unsplash.com/photo-1494774157365-9e04c6720e47?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+  background-image: url("https://images.unsplash.com/photo-1505343489387-c8d7f57b7c41?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1461&q=80");
   
 }
 
